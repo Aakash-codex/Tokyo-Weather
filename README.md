@@ -1,6 +1,6 @@
 # Tokyo Weather | 東京天気
 
-[![Live Site]([https://shields.io)](https://github.io](https://aakash-codex.github.io/Tokyo-Weather/))
+[![Live Site](https://github.io](https://aakash-codex.github.io/Tokyo-Weather/))
 
 A beautiful, real-time weather application for Tokyo, Japan with hyper-local weather data and world clock functionality.
 日本・東京のリアルタイムな気象データと世界時計機能を備えた、美しいお天気アプリケーションです。
