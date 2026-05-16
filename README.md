@@ -1,4 +1,4 @@
-# Tokyo Weather | 東京の天気
+# Tokyo Weather | 東京天気
 
 [![Live Site]([https://shields.io)](https://github.io](https://aakash-codex.github.io/Tokyo-Weather/))
 
@@ -7,7 +7,7 @@ A beautiful, real-time weather application for Tokyo, Japan with hyper-local wea
 
 ## 🔗 Live Demo / ライブデモ
 You can view the live application here / こちらのリンクからライブデモをご覧いただけます:  
-👉 [https://github.io](https://github.io)
+👉 https://aakash-codex.github.io/Tokyo-Weather/
 
 ---
 
